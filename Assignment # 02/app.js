@@ -4,7 +4,7 @@
 
 // Q2. Declare a variable called myName & assign to it a string that represents your Full Name?
 
-// var myName = "Farwa Zafar";
+// var myName = "Hadiya Naseem";
 
 // Q3. Write script to
 // a) Declare a JS variable, titled message.
@@ -17,8 +17,8 @@
 
 // Q4. Write a script to save student’s bio data in JS variables andshow the data in alert boxes?
 
-// var studentName ="Jhone Doe"
-// var studentAge ="15 years old"
+// var studentName ="Hadiya Naseem"
+// var studentAge ="19 years old"
 // var course ="Certified Mobile Application Development"
 // alert(studentName)
 // alert(studentAge)
@@ -34,7 +34,7 @@
 // Show the blow mentioned message in an alert box.(Hint: use
 // string concatenation?
 
-// var email ="areh12378@gmail.com"
+// var email ="hadiyasheikh329@gmail.com"
 // alert("My Email Address is " + email)
 
 // Q7. Declare a variable called book & give it the value “A
